@@ -25,7 +25,7 @@ def calculadora():
             print("Erro: divisão por zero.")
             return
 
-if oeracao != 4 or valor2 != 0:
+if operacao != 4 or valor2 != 0:
     print("O resultado da operação é: ", resultado)
     
     calculadora()
